@@ -1,0 +1,5 @@
+mkdir src
+mkdir src\lab4_api_cv
+mkdir src\lab4_api_cv\api
+mkdir src\lab4_api_cv\services
+mkdir data
